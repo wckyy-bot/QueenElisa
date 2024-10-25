@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QRXJDeyV2MKdlaP90TI5UQLJnTTpnehhjRzAzaldHSDRHRBl2YrRmVGlXSjEmWS1GSrNWQpwd=434005417362{
+  SESSION_ID: 'QUEENELISA;;;==QRXJDeyV2MKdlaP90TI5UQLJnTTpnehhjRzAzaldHSDRHRBl2YrRmVGlXSjEmWS1GSrNWQpwd=434005417362'
   "name": "ZUSYCO-MD",
   "version": "1.5.0",
   "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
